@@ -1,7 +1,9 @@
 <html>
     <head>
+	<link rel="stylessheet" href="estilo.txt">
     </head>
     <body>
 	<h1>Projeto do Dyego W.<h1>
+	<h2>111 </h2>
     </body>
 </html>
